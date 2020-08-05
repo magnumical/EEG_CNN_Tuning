@@ -13,4 +13,4 @@ I used MNE package to load physionet motor imagery dataset. I used the CNN in re
 ![ Demo](1.png)
 
 # References
-- [Blog GCNs by Thomas Kipf](https://github.com/shariharan205/Motor-Imagery-Tasks-Classification-using-EEG-data)
+- [Motor Imagery Tasks Classification using EEG data](https://tkipf.github.io/graph-convolutional-networks/)
